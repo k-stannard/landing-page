@@ -58,6 +58,8 @@ html, body {
     width: 500px;
     flex-grow: 0;
     flex-shrink: 0;
+    text-align: center;
+    line-height: 200px;
 }
 
 .hero-secondary, .links {
